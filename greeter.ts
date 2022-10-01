@@ -1,5 +1,5 @@
 function greeter(name) {
-  console.log(`Hello` + name);
+  console.log(`Hello ` + name);
 }
 
 let user = `Harun`;
